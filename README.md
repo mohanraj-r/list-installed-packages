@@ -5,7 +5,7 @@ List installed packages
 * This python script has been cloned from [here](http://www.aifdr.org/projects/system_administration/browser/statistics/list_manually_installed_packages.py)
 (found via [this Superuser thread](http://superuser.com/questions/48374/find-all-user-installed-packages)).
 * Tested on Mint 14 and works great so far. 
-* Cloning it here since I have been looking for such a script and because I think I can improve it.
+* Cloning it here since I have been looking for such a script (to cut the fat and to help when migrating/reinstalling the system) and because I think I can make some improvements to it.
 * Sample output:
 
 ```
@@ -23,4 +23,6 @@ List installed packages
 2013-01-24 14:30:24 python2.7-dev:amd64:  Header files and a static library for Python (v2.7)
 ...
 ```
+
+* Many thanks to the original author for this script. 
 
